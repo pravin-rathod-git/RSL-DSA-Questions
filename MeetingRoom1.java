@@ -21,7 +21,7 @@ public class MeetingRoom1 {
                 {3, 5},
                 {2, 4}
         };
-
+        
         System.out.println(canAttendMeetings(meetings));
     }
 }
