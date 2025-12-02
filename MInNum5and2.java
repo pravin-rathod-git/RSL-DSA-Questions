@@ -1,6 +1,5 @@
 public class MInNum5and2 {
-
-    public static int MinCoins(int amt) {
+     public static int MinCoins(int amt) {
         // Edge cases where making amount with 5 and 2 is impossible
         if (amt == 1 || amt == 3) return -1;
 
