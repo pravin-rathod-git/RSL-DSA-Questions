@@ -1,6 +1,4 @@
 import java.util.*;
-
-
 public class MaxDiff {
 
     public static String maximumDifference(int n, int[] arr) {
