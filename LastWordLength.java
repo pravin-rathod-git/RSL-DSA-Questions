@@ -1,5 +1,4 @@
 public class LastWordLength {
-
     public static int lengthOfLastWord(String s) {
         int n = s.length();
         int i = n - 1;
